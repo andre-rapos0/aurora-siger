@@ -1,5 +1,6 @@
 # Missão Aurora Siger
----
+
+
 **Autores:** André Raposo, Google Gemini  
 Projeto para a Atividade Integradora da Fase 1 do curso de Ciência da Computação da FIAP.
 
@@ -15,8 +16,8 @@ A missão simulada foi batizada de Aurora Siger e integra diversas áreas analí
 - Eficiência energética;
 - Responsabilidade ética e sustentável.
 
-### Instruções de execução
-**Método 1 - Google Colab**
+## Instruções de execução
+**Método 1 - Google Colab (Recomendado)**
 1. Importar o projeto na plataforma Google Colab
 2. Abrir o arquivo `aurora_siger.ipynb`
 3. Executar os blocos de código em ordem
@@ -24,13 +25,16 @@ A missão simulada foi batizada de Aurora Siger e integra diversas áreas analí
 **Método 2 - Execução local**
 1. Realizar o download do projeto
 2. Abrir o projeto em uma IDE com suporte a notebooks Jupyter. (Ex: Visual Studio Code)
-3. Ativar o ambiente virtual (venv) utilizando o comando:
+3. Criar um ambiente virtual (venv) utilizando o comando:
+    Windows: `py -m venv .venv`
+    Unix/macOs: `python3 -m venv .venv`
+4. Ativar o ambiente virtual utilizando o comando:
     Windows: `.venv\Scripts\activate`
     Unix/macOS: `source .venv/bin/activate`
-4. Realizar o download das dependencias do projeto com o comando `pip install -r requirements.txt`
-5. Abrir o arquivo `aurora_siger.ipynb`
-6. Executar os blocos de código em ordem
+5. Realizar o download das dependencias do projeto com o comando `pip install -r requirements.txt`
+6. Abrir o arquivo `aurora_siger.ipynb`
+7. Executar os blocos de código em ordem
 
-### Print da execução
+## Print da execução
 Execução do bloco "6. Apresentando Resultados"
 ![Screenshot do bloco 5](./assets/apresentacao_dos_resultados.png)
