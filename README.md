@@ -32,15 +32,5 @@ A missão simulada foi batizada de Aurora Siger e integra diversas áreas analí
 6. Executar os blocos de código em ordem
 
 ### Print da execução
-Execução do bloco "5. Apresentando Resultados"
+Execução do bloco "6. Apresentando Resultados"
 ![Screenshot do bloco 5](./assets/apresentacao_dos_resultados.png)
-
-Execução direta do algoritmo `verificacao_pre_decolagem.py`.
-
-![Screenshot da Execução](./assets/screenshot_execucao.png)
-
-Executando o arquivo diretamente o seguinte trecho é executado:
-
-O trecho define um caso regular e um caso de anomalia, imprimindo "PRONTO PARA DECOLAR" e "DECOLAGEM ABORTADA" respectivamente
-
-![Screenshot do trecho executado](./assets/trecho_execucao.png)
